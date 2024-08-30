@@ -16,7 +16,7 @@ body{
     color: var(--cor-secundaria);
 }
 .cabecalho {
-    padding: 2% 0% 0% 10%;
+    padding: 2% 0% 0% 15%;
     display: flex;
       gap: 80px;
 }
@@ -31,7 +31,6 @@ body{
       font-weight: 600;
       color: var(--cor-terciaria);
         margin: 0 10px;
-        padding: 5px 10px;
         text-decoration: none;
         padding: 10px 15px
     
